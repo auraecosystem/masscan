@@ -23,7 +23,7 @@ configure the internal firewall (like `pf` or `iptables`) to firewall those port
 from the rest of the operating system.
 
 This tool is free, but consider contributing money to its development:
-Bitcoin wallet address: 1MASSCANaHUiyTtR3bJ2sLGuMw5kDBaj4T
+[Bitcoin wallet](address:1MASSCANaHUiyTtR3bJ2sLGuMw5kDBaj4T)
 
 
 # Building
