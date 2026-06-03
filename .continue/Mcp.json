@@ -1,0 +1,9 @@
+{
+  "mcpServers": [
+    {
+      "name": "startuphub",
+      "url": "https://www.startuphub.ai/api/mcp",
+      "headers": { "Authorization": "Bearer sk_live_..." }
+    }
+  ]
+}
